@@ -1,7 +1,6 @@
 ## 📅 Week 1: Python Fundamentals
 
 **🧠 Focus:** Python syntax, control flow, functions, core data structures, NumPy, and intro to Pandas  
-**⏱ Time Spent:** ~10 hours  
 **🎯 Goal:** Build a strong foundation in Python for data analysis and ML workflows
 
 ---
@@ -29,10 +28,9 @@
 ---
 
 ### 🚀 What’s Next (Week 2)
-- Exploratory Data Analysis (EDA)
+- Getting hands-on with JSON, HTML, and XML using Pandas
 - Data wrangling with Pandas
 - Data visualization using Matplotlib & Seaborn
-- Intro to statistics for ML
 
 ---
 
